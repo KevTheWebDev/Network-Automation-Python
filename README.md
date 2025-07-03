@@ -111,16 +111,5 @@ Here’s what you’ll see in your terminal:
 
 ---
 
-## ✅ Future Improvements
-
-- Add logging to file
-- Encrypt backup files
-- Add multithreading for speed
-- Schedule backups with cron or Task Scheduler
-- Support Juniper and other vendors
-- Store credentials securely using `.env` or vault systems
-
----
-
 **Made with ❤️ by [Kevin Orta]**
 
